@@ -21,6 +21,13 @@ body {
     background-color: var(--light-gray);
 }
 
+.card {
+    display: flex;
+    justify-content: center;
+}
+
+
+
 .title-font {
     font-weight: 700;
     margin: 1em;
