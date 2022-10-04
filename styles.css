@@ -39,7 +39,7 @@ body {
     display: inline-block;
     background-color: var(--white);
     margin: 2em;
-    max-width: 900px;
+    max-width: 375px;
     padding: 2em;
     border-radius: 20px;
 }
